@@ -1,5 +1,5 @@
 # MBD-Development-and-Simulation
-using Pilot Input Device,MATLAB/SIMULINK,FlightGear to develop a airplane. 
+using Pilot Input Device,MATLAB/SIMULINK,FlightGear to develop a airplane Design and Simulation Environment. 
 
 (1) the Pilot Input Device include Yoke for Elevator and Aileron Control, Rudder,and Throttle
 
