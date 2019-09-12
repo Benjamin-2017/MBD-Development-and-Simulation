@@ -38,14 +38,14 @@ using Pilot Input Device,MATLAB/SIMULINK,FlightGear to develop a airplane Design
  2.1 interfaces between Input Devices and MATLAB/SIMULINK
  input devices:Flight Yoke System,Flight Rudder Pedals,and Throttle Quadrant.
   two interface Modules in Simulink are used to interpret the input data:
-  ![](https://github.com/Benjamin-2017/MBD-Development-and-Simulation/blob/master/.jpg)
+  ![](https://github.com/Benjamin-2017/MBD-Development-and-Simulation/blob/master/input_interface_function.jpg)
  
  
  2.2 interfaces between  MATLAB/SIMULINK and FlightGears
  The Simulation Results are transimitted to Local FlightGear and Remotely FlightGear to show more flight details.
  
  there are two inferface function in Simulink to link to Local FlightGear and Remotely FlightGear:
-  ![](https://github.com/Benjamin-2017/MBD-Development-and-Simulation/blob/master/.jpg) 
+  ![](https://github.com/Benjamin-2017/MBD-Development-and-Simulation/blob/master/twoFightGears_interface_function.jpg) 
  
  
  
